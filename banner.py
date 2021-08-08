@@ -19,6 +19,6 @@
 ●▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬●
 
        ●▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬●
-         WELCOME EVERYBODY
+        WELCOME EVERYBODY
        ●▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬●
 
