@@ -39,7 +39,7 @@ vers = find_versi.text
 text = find_data.text
 pesan = find_pesan.text
 if text == "":
-    print("IZIN ANDA TELAH DI CABUT")
+    print("I have permission to recode it")
     exit()
 
 #CEK VERSI
@@ -354,7 +354,7 @@ def menu():
         negara = "None"
     os.system("clear")
     banner()
-    print((k+"\n[ "+p +a["name"]+", Salam Anonymous"+k+" ]"+p))
+    print((k+"\n[ "+p +a["name"]+",Welcome Everybody"+k+" ]"+p))
     print(garis)
     print((k+"["+h+"!"+k+"]"+p+" ID Anda    : "+m+id))
     print((k+"["+h+"!"+k+"]"+p+" IP Anda    : "+ip))
