@@ -1,10 +1,17 @@
+   ▛      ▜
+████████████████
+███֍████֎███
+████████████
+███▽▽▽▽▽███ ≋≋≋≋≋
+███         ███ ≋≋≋≋
+███△△△△△███ ≋≋≋≋≋
+████████████
 ●▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬●
      >WELCOME<
 ●▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬●
 
 ●▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬●●▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬●
-{*} Author     : Fanny
-{*} Author Ori : Dapunta Khurayra
-{*} Github     : https://github.com/FannyXMe25
-{*} Facebook   : https://www.facebook.com/erpann.botan
+{*} Author : Fanny
+{*} Maker  : Dapunta Khurayra
+{*} Github : https://github.com/FannyXMe25
 ●▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬●●▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬●
