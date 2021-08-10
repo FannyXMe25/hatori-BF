@@ -354,22 +354,22 @@ def menu():
         negara = "None"
     os.system("clear")
     banner()
-    print((k+"\n[ "+p +a["name"]+",Welcome Everybody"+k+" ]"+p))
+    print((k+"\n[ "+p +a["name"]+",Thank you for coming here"+k+" ]"+p))
     print(garis)
     print((k+"["+h+"!"+k+"]"+p+" ID Anda    : "+m+id))
     print((k+"["+h+"!"+k+"]"+p+" IP Anda    : "+ip))
     print((k+"["+h+"!"+k+"]"+p+" Crack      : "+negara))
     print(garis)
     
-    print((k+"\n["+p+"1"+k+"]"+p+" Crack ID Publik/Teman"))
-    print((k+"["+p+"2"+k+"]"+p+" Crack ID Dari Pengikut"))
-    print((k+"["+p+"3"+k+"]"+p+" Crack ID Dari Likers Postingan"))
+    print((k+"\n["+p+"1"+k+"]"+p+" Crack ID Public/Teman"))
+    print((k+"["+p+"2"+k+"]"+p+" Crack ID Dari Followers"))
+    print((k+"["+p+"3"+k+"]"+p+" Crack ID Dari Like Post"))
     print((k+"["+p+"4"+k+"]"+p+" Crack Dari Nomor Acak"))
     print((k+"["+p+"5"+k+"]"+p+" Crack Dari Email Acak"))
     print((k+"["+p+"6"+k+"]"+p+" Ambil Data-Data Target"))
     print((k+"["+p+"7"+k+"]"+p+" Hasil Crack"))
     print((k+"["+p+"8"+k+"]"+p+" User Agent"))
-    print((k+"["+p+"0"+k+"]"+p+" Keluar"))
+    print((k+"["+p+"0"+k+"]"+p+" Out"))
     choose_menu()
 
 def choose_menu():
@@ -409,8 +409,8 @@ def choose_menu():
 def pilihcrack(file):
   print((k+"\n["+p+"1"+k+"]"+p+" Api ("+k+"Fast Process"+p+")"))
   print((k+"["+p+"2"+k+"]"+p+" Api + TTL ("+k+"Fast Process"+p+")"))
-  print((k+"["+p+"3"+k+"]"+p+" Mbasic ("+k+"Medium Process"+p+")"))
-  print((k+"["+p+"4"+k+"]"+p+" Mbasic + TTL ("+k+"-Medium Process"+p+")"))
+  print((k+"["+p+"3"+k+"]"+p+" Mbasic ("+k+"Slow Process"+p+")"))
+  print((k+"["+p+"4"+k+"]"+p+" Mbasic + TTL ("+k+"Slow Process"+p+")"))
   print((k+"["+p+"5"+k+"]"+p+" Free Facebook ("+k+"Very Slow Process"+p+")"))
   krah=input(k+"\n["+p+"•"+k+"]"+p+" Pilih : ")
   if krah in[""]:
